@@ -1,0 +1,2 @@
+﻿Model,Accuracy Test,Precision Macro Test,Recall Macro Test,F1 Macro Test
+Linear SVM,0.9035087719298246,0.8831723937944034,0.879153857836889,0.8803560599497531
